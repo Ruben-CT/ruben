@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Node JS</title>
+    <link rel="stylesheet" href="css/node-js.css">
+</head>
+<body>
+    <header>
+        <h1>Instalacón de Node JS</h1>
+    
+                 <article>
+                 <h2>1.-Dentro de Google bucar "Node JS"</h2>
+                 </article>
+                  <img src="IMG/UNONODE.png" alt="UNO" width="750" height="300">
+                  
+                 <article>
+                 <h2> 2.-Empezar a descargar el Visual Studio Code</h2>
+                 </article>
+                 <img src="IMG/DOSNODE.png" alt="DOS"  width="750"  height="300"                                   >
+
+
+                 <article>
+                 <h2>3.-Abrir el achivo y ejecutarlo como administración </h2>
+                 </article>
+                 <img src="IMG/TRESNODE.png" alt="TRES"  width="750"  height="300"                                   >
+
+
+
+                 <article>
+                 <h2>4.-Aceptar los terminos y dar siguiente</h2>
+                 </article>
+                 <img src="IMG/CUATRONODE.png" alt="CUATRO"  width="750"  height="300"                                   >
+
+
+                 <article>
+                 <h2>5.-Visualizar donde se ubicará el programa y dar siguente</h2>
+                 </article>
+                 <img src="IMG/CINCONODE.png" alt="CINCO"  width="750"  height="300"                                   >
+
+                 <article>
+                 <h2>6.-Precionar Instalar</h2>   
+                 </article>
+                 <img src="IMG/SEISNODE.png" alt="SEIS"  width="750"  height="300"                                   >
+    
+
+                 <article>
+                 <h2>6.-Precionar Instalar</h2>   
+                 </article>
+                 <img src="IMG/SIETENODE.png" alt="SIETE"  width="750"  height="300"                                   >
+    
+                 <article>
+                 <h2>7.-Esperar</h2>   
+                 </article>
+                 <img src="IMG/OCHONODE.png" alt="OCHO"  width="750"  height="300"                                   >
+    
+
+                 <article>
+                <h2>8.-Esperar su instalación</h2>   
+                </article>
+                 <img src="IMG/NUEVENODE.png" alt="NUEVE"  width="750"  height="300"                                   >
+    
+                 <article>
+                 <h2>9.-</h2>   
+                 </article>
+                 <img src="IMG/DIEZNODE.png" alt="DIEZ"  width="750"  height="300"    >
+                 
+
+                    <article>
+                    <h2>9.-</h2>   
+                    </article>
+                    <img src="IMG/ONCENODE.png" alt="once"  width="750"  height="300"    >
+                    
+     <article>
+     <h2>Video tutorial de descarga de Node JS</h2>
+    </article>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/czFj5zoI5uc?si=nJM86pe3oNprIAs7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 
+     <ul>
+             <li><a href="NPM">Instalación de NPM </a> </li>
+     </ul>
+    
+
+    </header>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
